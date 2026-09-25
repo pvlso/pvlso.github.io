@@ -1,1 +1,1 @@
-New website: (pvlso)[https://www.pvlso.com]
+New website: [pvlso](https://www.pvlso.com)
